@@ -1,8 +1,6 @@
-# gtm-ai-workflows
-AI-powered workflow automation tools for GTM teams. Built with Claude Code.
 # GTM AI Workflows
 
-Production AI skills built with Claude Code to automate and accelerate Go-To-Market workflows. Used daily for enterprise sales operations including account research, outbound generation, and discovery call processing.
+Production AI skills built with Claude Code to automate and accelerate Go-To-Market workflows. Used daily for 6 months in enterprise sales operations including account research, outbound generation, and discovery call processing.
 
 ## Skills
 
